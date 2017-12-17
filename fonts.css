@@ -1,0 +1,142 @@
+/* 영문 웹폰트 */
+/* latin */
+@font-face {
+  font-family: 'Rway';
+  font-style: normal;
+  font-weight: 100;
+  src: url(//fonts.gstatic.com/s/raleway/v12/8KhZd3VQBtXTAznvKjw-k_k_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+}
+/* latin */
+@font-face {
+  font-family: 'Rway';
+  font-style: normal;
+  font-weight: 300;
+  src: url(//fonts.gstatic.com/s/raleway/v12/-_Ctzj9b56b8RgXW8FArifk_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+}
+/* latin */
+@font-face {
+  font-family: 'Rway';
+  font-style: normal;
+  font-weight: 400;
+  src: url(//fonts.gstatic.com/s/raleway/v12/CcKI4k9un7TZVWzRVT-T8_k_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+}
+
+/* latin */
+@font-face {
+  font-family: 'Rway';
+  font-style: normal;
+  font-weight: 500;
+  src: url(//fonts.gstatic.com/s/raleway/v12/xkvoNo9fC8O2RDydKj12b_k_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+}
+/* latin */
+@font-face {
+  font-family: 'Rway';
+  font-style: normal;
+  font-weight: 700;
+  src: url(//fonts.gstatic.com/s/raleway/v12/JbtMzqLaYbbbCL9X6EvaI_k_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+}
+/* latin */
+@font-face {
+  font-family: 'Rway';
+  font-style: normal;
+  font-weight: 900;
+  src: url(//fonts.gstatic.com/s/raleway/v12/PKCRbVvRfd5n7BTjtGiFZPk_vArhqVIZ0nv9q090hN8.woff2) format('woff2');
+}
+
+/* latin-ext */
+@font-face {
+  font-family: 'RwayEXT';
+  font-style: normal;
+  font-weight: 100;
+  src: url(//fonts.gstatic.com/s/raleway/v12/cbAbzEjxTdN5KKmS-gA0tSEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+}
+/* latin-ext */
+@font-face {
+  font-family: 'RwayEXT';
+  font-style: normal;
+  font-weight: 300;
+  src: url(//fonts.gstatic.com/s/raleway/v12/ZKwULyCG95tk6mOqHQfRBCEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+}
+/* latin-ext */
+@font-face {
+  font-family: 'RwayEXT';
+  font-style: normal;
+  font-weight: 400;
+  src: url(//fonts.gstatic.com/s/raleway/v12/Li18TEFObx_yGdzKDoI_ciEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+}
+/* latin-ext */
+@font-face {
+  font-family: 'RwayEXT';
+  font-style: normal;
+  font-weight: 500;
+  src: url(//fonts.gstatic.com/s/raleway/v12/STBOO2waD2LpX45SXYjQBSEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+}
+/* latin-ext */
+@font-face {
+  font-family: 'RwayEXT';
+  font-style: normal;
+  font-weight: 700;
+  src: url(//fonts.gstatic.com/s/raleway/v12/WmVKXVcOuffP_qmCpFuyzSEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+}
+/* latin-ext */
+@font-face {
+  font-family: 'RwayEXT';
+  font-style: normal;
+  font-weight: 900;
+  src: url(//fonts.gstatic.com/s/raleway/v12/Ji5epXNcpHu3r63lhS0cTiEAvth_LlrfE80CYdSH47w.woff2) format('woff2');
+}
+/* 한글 웹폰트 */
+/* Noto Sans KR (korean) http://www.google.com/fonts/earlyaccess */
+@font-face {
+  font-family: 'NSKR';
+  font-style: normal;
+  font-weight: 100;
+  src: url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Thin.woff2) format('woff2'),
+       url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Thin.woff) format('woff'),
+       url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Thin.otf) format('opentype');
+}
+@font-face {
+  font-family: 'NSKR';
+  font-style: normal;
+  font-weight: 300;
+  src: url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Light.woff2) format('woff2'),
+       url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Light.woff) format('woff'),
+       url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Light.otf) format('opentype');
+}
+@font-face {
+   font-family: 'NSKR';
+   font-style: normal;
+   font-weight: 400;
+   src: url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Regular.woff2) format('woff2'),
+        url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Regular.woff) format('woff'),
+        url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Regular.otf) format('opentype');
+ }
+@font-face {
+   font-family: 'NSKR';
+   font-style: normal;
+   font-weight: 500;
+   src: url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Medium.woff2) format('woff2'),
+        url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Medium.woff) format('woff'),
+        url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Medium.otf) format('opentype');
+ }
+@font-face {
+   font-family: 'NSKR';
+   font-style: normal;
+   font-weight: 700;
+   src: url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Bold.woff2) format('woff2'),
+        url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Bold.woff) format('woff'),
+        url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Bold.otf) format('opentype');
+ }
+@font-face {
+   font-family: 'NSKR';
+   font-style: normal;
+   font-weight: 900;
+   src: url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Black.woff2) format('woff2'),
+        url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Black.woff) format('woff'),
+        url(//fonts.gstatic.com/ea/notosanskr/v2/NotoSansKR-Black.otf) format('opentype');
+ }
+html {
+  font-family: 'Rway', 'RwayEXT', 'NSKR';
+  font-feature-settings:"lnum" 1, "kern" 1;
+  font-variant-ligatures: common-ligatures;
+}
