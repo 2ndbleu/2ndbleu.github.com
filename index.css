@@ -52,51 +52,21 @@
 
 #box1 {
     float: none;
-    height: 120px;
+    height: 80px;
     margin: 0% auto;
     clear: none;
     width: 640px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
-
-#box2 {
-    float: left;
-    height: 80px;
-    margin: 0%;
-    clear: none;
-    width: 25%;
-}
-
-#box3 {
-    float: left;
-    height: 80px;
-    margin: 0%;
-    clear: none;
-    width: 75%;
-}
-
-#image {
-    float: none;
-    width: auto;
-    max-width: 100%;
-    height: auto;
-    margin-left: auto;
-    margin-top: 0px;
-    clear: none;
-    color: rgb(0, 0, 0);
-    margin-right: auto;
 }
 
 #text2 {
-    float: left;
-    font-size: 56px;
+    float: none;
+    font-size: 20px;
     width: 100%;
-    height: 60px;
+    height: 40px;
     text-align: center;
-    font-weight: 700;
-    line-height: 1em;
-    margin: 10px 0%;
+    font-weight: normal;
+    line-height: 20px;
+    margin: 20px auto;
     clear: none;
     min-height: 0px;
 }
@@ -108,18 +78,6 @@
 
     #box1 {
         width: 100%;
-        margin: 0%;
-    }
-
-    #box3 {
-        margin: 0%;
-        clear: none;
-        width: 70%;
-        height: 80px;
-    }
-
-    #box2 {
-        width: 30%;
     }
 }
 
@@ -147,52 +105,22 @@
     }
 
     #box1 {
-        float: left;
-        height: 120px;
-        margin: 0%;
+        float: none;
+        height: 80px;
+        margin: 0% auto;
         clear: none;
         width: 100%;
-        padding-top: 20px;
-        padding-bottom: 20px;
-    }
-
-    #box2 {
-        float: left;
-        height: 80px;
-        margin: 0%;
-        clear: none;
-        width: 40%;
-    }
-
-    #box3 {
-        float: left;
-        height: 80px;
-        margin: 0%;
-        clear: none;
-        width: 60%;
-    }
-
-    #image {
-        float: none;
-        width: auto;
-        max-width: 100%;
-        height: auto;
-        margin-left: auto;
-        margin-top: 0px;
-        clear: none;
-        color: rgb(0, 0, 0);
-        margin-right: auto;
     }
 
     #text2 {
-        float: left;
-        font-size: 56px;
+        float: none;
+        font-size: 20px;
         width: 100%;
-        height: 60px;
+        height: 40px;
         text-align: center;
-        font-weight: 700;
-        line-height: 1em;
-        margin: 10px 0%;
+        font-weight: normal;
+        line-height: 20px;
+        margin: 20px auto;
         clear: none;
         min-height: 0px;
     }
